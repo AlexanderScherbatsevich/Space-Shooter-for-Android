@@ -1,2 +1,2 @@
-# Space-Shooter-for-Android
-android version
+# Space-shooter
+ mini game for portfolio
